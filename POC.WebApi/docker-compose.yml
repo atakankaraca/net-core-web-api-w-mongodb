@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  poc.webapi:
+    image: poc.webapi
+    build:
+      context: .
+      dockerfile: POC.WebAPI\Dockerfile

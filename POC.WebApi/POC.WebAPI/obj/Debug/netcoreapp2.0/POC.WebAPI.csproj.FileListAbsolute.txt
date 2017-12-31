@@ -1,0 +1,12 @@
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\bin\Debug\netcoreapp2.0\POC.WebAPI.deps.json
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\bin\Debug\netcoreapp2.0\POC.WebAPI.runtimeconfig.json
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\bin\Debug\netcoreapp2.0\POC.WebAPI.runtimeconfig.dev.json
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\bin\Debug\netcoreapp2.0\POC.WebAPI.dll
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.AssemblyInfoInputs.cache
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.AssemblyInfo.cs
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\bin\Debug\netcoreapp2.0\POC.WebAPI.pdb
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.dll
+C:\Users\atakankaraca\source\repos\POC.WebAPI\POC.WebAPI\obj\Debug\netcoreapp2.0\POC.WebAPI.pdb
+C:\Users\atakankaraca\source\repos\POC.WebApi\POC.WebAPI\bin\Debug\netcoreapp2.0\NLog.config

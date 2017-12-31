@@ -1,0 +1,1 @@
+C:\Users\atakankaraca\source\repos\POC.WebApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

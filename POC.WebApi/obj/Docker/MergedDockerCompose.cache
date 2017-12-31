@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  poc.webapi:
+    build:
+      context: C:\Users\atakankaraca\source\repos\POC.WebApi
+      dockerfile: POC.WebAPI\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: poc.webapi
+    ports:
+    - 80/tcp
+version: '3.0'
